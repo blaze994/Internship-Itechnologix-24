@@ -7,8 +7,8 @@ import fs from "fs";
 
 
 const s3 = new S3({
-    accessKeyId: "AKIA3FLDYEWAKJNM7KOR",
-    secretAccessKey: "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"
+    accessKeyId: "",
+    secretAccessKey: ""
 })
 
 const app = express();
